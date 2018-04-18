@@ -1,0 +1,13 @@
+body{
+background: url(../images/BELLA.jpg);
+margin: 0;
+padding: 0;
+background-size:cover;
+}
+.main{
+    background-color: gray;
+    margin-top: 200px;
+}
+ul{
+    border-style: solid;
+}

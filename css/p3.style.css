@@ -1,0 +1,23 @@
+.image{
+    background: url(../images/tgth.jpg)no-repeat;
+    width: 200px;
+    height: 500px;
+    margin-top: 20px;
+}
+.swimmood{
+    background: url(../images/swimmood.JPG)no-repeat;
+    width: 100px;
+    height: 800px;
+}
+.swimb{
+    background: url(../images/pool.JPG)no-repeat;
+    width: 400px;
+    height: 500px;
+}
+.head{
+float: right;
+}
+
+
+
+

@@ -1,0 +1,29 @@
+.wrap{
+    background-color: aquamarine;
+}
+.image{
+    background: url(../images/coding.jpg) no-repeat;
+    width: 500px;
+    height: 400px;
+    background-image: cover;
+}
+nav{
+    background-color: aqua;
+    margin-bottom: 300px;
+    margin-right: 100px;
+}
+nav li{
+    font-size: 50px;
+}
+ul a {
+    text-decoration: none;
+}
+ul a:hover{
+text-decoration-color: black;
+}
+body{
+    background-color: aquamarine;
+    margin:0;
+    padding:0;
+    background-size: cover;
+}

@@ -1,0 +1,27 @@
+.hdi{
+    background-color: aqua;
+}
+.hd{
+    float: left;
+}
+ /* nav */
+nav{
+    float: right;
+    background-color: aqua;
+}
+nav li{
+    display: inline;
+    margin-left: 20px;
+}
+/* banner */
+.imp{
+    background: url(../images/pool.jpg) no-repeat;
+    width: 400px;
+    height: 300px;
+}
+.eco{
+    background: url(../images/BELLA.jpg) no-repeat;
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+}

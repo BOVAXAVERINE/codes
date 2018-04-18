@@ -1,0 +1,27 @@
+.banner{
+    background:url(../images/macity.JPG) no-repeat;
+    width: 400px;
+    height: 150px;
+}
+/* header */
+ header {
+    overflow: hidden;
+}
+ 
+
+/* nav */
+nav {
+    float: right;
+}
+nav li {
+    display:inline;
+    margin-left: 20px;
+
+}
+.callout {
+    background: black;
+    height:200px;
+}
+footer{
+    clear:both;
+}
